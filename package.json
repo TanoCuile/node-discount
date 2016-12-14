@@ -9,7 +9,7 @@
   "scripts": { "preinstall": "node-gyp configure build" }, 
   "repository" : { 
     "type" : "git",
-    "url" : "http://github.com/visionmedia/node-discount.git"
+    "url" : "http://github.com/TanoCuile/node-discount.git"
   }, 
   "bugs" : { 
     "web" : "http://github.com/TanoCuile/node-discount/issues" 
